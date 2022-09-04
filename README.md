@@ -12,7 +12,7 @@ cp .env.example .env
 ``
 php artisan migrate
 ``
-- for better performance , company symboles are saved in database instead of calling the nasdaq api each time , so run this command to upadate company list
+- for better performance , company symbols are saved in database instead of calling the nasdaq api each time , so run this command to upadate company list
 ``
 php artisan fill:company-symbol
 ``

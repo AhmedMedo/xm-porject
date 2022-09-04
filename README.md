@@ -1,5 +1,5 @@
 # XM dashboard to search for open/close prices using yahoo finance
-## After dowoloanding the project:
+## After downloading the project:
 - run this command to install project dependencies 
 ``
 composer install

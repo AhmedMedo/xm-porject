@@ -8,7 +8,7 @@ composer install
 ``
 cp .env.example .env
 ``
--migrate the database (i used sqlite database here) 
+- migrate the database (i used sqlite database here) 
 ``
 php artisan migrate
 ``

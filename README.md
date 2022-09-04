@@ -20,6 +20,7 @@ php artisan fill:company-symbol
 ``
 php artisan serve
 ``
+- mailtrap used here for email testing , you can use any email hosting to check , just replace mailtrap credentials form .env file
 
 ## main features
 - front end form validations befor submit
